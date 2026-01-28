@@ -85,3 +85,7 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+
+
+
+https://www.frontendmentor.io/learning-paths/getting-started-on-frontend-mentor-XJhRWRREZd/article/65e6f48617e502f0b6ca3cfd/read
